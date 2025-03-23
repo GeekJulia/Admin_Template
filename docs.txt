@@ -1,0 +1,26 @@
+values for rounded edges of a rectangle or square = Default Border Radius
+rounded-none → border-radius: 0px;
+rounded-sm → border-radius: 0.125rem; (2px)
+rounded → border-radius: 0.25rem; (4px)
+rounded-md → border-radius: 0.375rem; (6px)
+rounded-lg → border-radius: 0.5rem; (8px)
+rounded-xl → border-radius: 0.75rem; (12px)
+rounded-2xl → border-radius: 1rem; (16px)
+rounded-3xl → border-radius: 1.5rem; (24px)
+rounded-full → border-radius: 9999px; (Fully rounded)
+
+Indentation Classes in Tailwind
+indent-0 → text-indent: 0px;
+indent-px → text-indent: 1px;
+indent-0.5 → text-indent: 0.125rem; (2px)
+indent-1 → text-indent: 0.25rem; (4px)
+indent-1.5 → text-indent: 0.375rem; (6px)
+indent-2 → text-indent: 0.5rem; (8px)
+indent-3 → text-indent: 0.75rem; (12px)
+indent-4 → text-indent: 1rem; (16px)
+indent-5 → text-indent: 1.25rem; (20px)
+indent-6 → text-indent: 1.5rem; (24px)
+indent-7 → text-indent: 1.75rem; (28px)
+indent-8 → text-indent: 2rem; (32px)
+indent-9 → text-indent: 2.25rem; (36px)
+indent-10 → text-indent: 2.5rem; (40px)
